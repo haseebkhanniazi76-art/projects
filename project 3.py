@@ -17,11 +17,14 @@ class RescuePet:
 
 combined_df = pd.concat([df_a, df_b])
 
-combined_df.dropna()
+combined_df=combined_df.dropna()
 dogs_df = combined_df[combined_df["Animal_Type"] == "Dog"].copy()
 
 target_dog = dogs_df.iloc[0]
-my_pet = RescuePet(target_dog["Pet_Name"], target_dog["Animal_Type"], target_dog["Age_Years"])
+my_pet = RescuePet(
+    name=target_dog["Pet_Name"],
+    species=["Animal_Type"],
+    age=["Age_Years"])
 
 
 my_pet.process_adoption()
@@ -35,6 +38,6 @@ adopted_data = pd.DataFrame([{
 }])
 
 
-adopted_data.to_csv("successful_adoptations.csv",mode="a".index=false)
+adopted_data.to_csv("adopted_data.csv")
 print("Current Dogs Available")
-print(df)
+
