@@ -1,0 +1,101 @@
+Transaction_ID,Customer_Name,Customer_Age,Gender,City,Customer_Rating,Product_Category,Product_SubCategory,Quantity_Ordered,Unit_Price_PKR,Discount_Percent,Total_Amount_PKR,Payment_Method,Order_Date,Delivery_Status,Shipping_Cost_PKR,Is_VIP_Member,Customer_Feedback,Store_Branch,Return_Requested
+1000,Sania Abbas,41,MALE,Peshawar,3.8,Sports,Shoes,8,4100,20,32800,cash_on_delivery,08-20-23,Delivered,500,N,Good quality, Branch_B,NO
+1001,Noor Bibi,30,MALE,Multan,4.2,Books,Laptops,4,45000,20,180000,JazzCash,12-12-23,Pending,150,no,Damaged packaging,BRANCH_C,NO
+1002,  sania khan  ,24,M,  Multan  ,2.8,Beauty,Decor,4,15000,20,60000,credit_card,24/12/2023,pending,200,no,, Branch_B,No
+1003,  noor bilal  ,53,MALE,Karachi,4.4,Books,Mobiles,5,2200,,11000,cash_on_delivery,09-03-23,Shipped,0,yes,Worst experience,Branch_A ,No
+1004,Usman Ahmed,62,Male,Lahore,4.1, books ,Fitness,6,2200,10,13200,JazzCash,02-05-23,Pending,0,NO,Valuable,Branch_A,nan
+1005,  bilal ahmed  ,,m,Faisalabad,1.3,Home & Kitchen,Mobiles,5,2500,5,12500,credit_card,,Delivered,150,YES,Satisfied, Branch_B,YES
+1006,Ali Mehmood,18,F,peshawar,1.2,Clothing,Shoes,7, PKR 2500 ,20%,17500,cash_on_delivery,06-07-23,CANCELLED,300,YES,Satisfied, Branch_B,No
+1007,Tariq Qamar,25,FEMALE,MULTAN,3.5, clothing ,Mobiles,2,UNKNOWN,25,ERROR,JazzCash,,Returned,150,Yes,Worst experience,Branch_A,nan
+1008,KASHIF MUSTAFA,63,m,Lahore,, beauty ,Mobiles,7,1200,15,8400,cash_on_delivery,12-03-23,pending,300,no,Satisfied,BRANCH_C,NO
+1009,ASAD KHAN,33,Female,karachi,1.8,Clothing,Shoes,7,2200,10%,15400,cash_on_delivery,08-21-23,Delivered,300,Yes,Worst experience,Branch_A,YES
+1009,ASAD KHAN,33,Female,karachi,1.8,Clothing,Shoes,7,2200,10%,15400,cash_on_delivery,08-21-23,Delivered,300,Yes,Worst experience,Branch_A,YES
+1011,  sania farooq  ,29,Male,Islamabad,2.4, beauty ,Skincare,7, PKR 15000 ,0,105000,cash_on_delivery,07-10-23,Shipped,,yes,Very slow shipping,BRANCH_C,Yes
+1012,Hamza Hayat,40,FEMALE,  Multan  ,3.1,Electronics,Shoes,N/A,5300,15,ERROR,cash_on_delivery,23/02/2023,Delivered,500,No,Worst experience,BRANCH_C,nan
+1013,Umer Ahmed,32,m,FAISALABAD,2.8,Books,Fitness,3,8500,25%,25500,credit_card,13/06/2023,delivered,300,N,Good quality,Branch_A,No
+1014,Asad Mirza,,female,Rawalpindi,3.3,Home & Kitchen,Decor,3,15000,20,45000,Bank Transfer,15/06/2023,Shipped,250,yes,Satisfied, Branch_B,NO
+1015,  zainab umar  ,51,M,  Faisalabad  ,2.6,Sports,Fiction,4,2200,5,8800,Credit Card,07-25-23,Pending,0,No,Worst experience,Branch_A ,nan
+1016,  saba bilal  ,19,Male,faisalabad,3.8,Electronics,Mobiles,2,1200,30,2400,COD,07-06-23,CANCELLED,500,NO,, Branch_B,No
+1017, Hamza Ahmed ,49,Male,  Multan  ,1.7,Clothing,Fitness,2,18000,,36000,EasyPaisa,25/09/2023,Returned,300,Yes,Valuable,branch_b,No
+1018,  kashif bilal  ,40,M,  Rawalpindi  ,3.8,Clothing,Mobiles,1,5300,20,5300,COD,03-05-23,Pending,300,Y,Satisfied,Branch_A ,No
+1019,Atif Mehmood,39,F,KARACHI,,Sports,Fiction,5,4100,30%,20500,COD,08-01-23,CANCELLED,150,NO,Very slow shipping,BRANCH_C,Yes
+1020,Hamza Hayat,42,M,Peshawar,4.5, beauty ,Decor,4,3200,5,12800,JazzCash,04-13-23,pending,150,yes,Valuable,Branch_A ,NO
+1021,Asad Bibi,39,Male,  Multan  ,3.1, sports ,Skincare,2,3200,20%,6400,Credit Card,11-10-23,Delivered,0,NO,Very slow shipping,BRANCH_C,No
+1022,Zainab Mustafa,39,Male,peshawar,4.9,Electronics,Fitness,3,8500,5%,25500,JazzCash,10-10-23,delivered,500,NO,Okayish,BRANCH_C,No
+1023,  asad raza  ,,m,Faisalabad,3.4,Books,Shirts,7,2500,25,17500,Credit Card,01-09-23,Shipped,300,N,Valuable,Branch_A ,Yes
+1024,  asad raza  ,23,MALE,Rawalpindi,1.9, books ,Shirts,7,2200,0,15400,credit_card,,Shipped,0,N,Satisfied,BRANCH_C,No
+1024,  asad raza  ,23,MALE,Rawalpindi,1.9, books ,Shirts,7,2200,0,15400,credit_card,,Shipped,0,N,Satisfied,BRANCH_C,No
+1026,  tariq bibi  ,60,M,Faisalabad,2.4,Beauty,Shirts,5,1800,20,9000,Credit Card,09-11-23,delivered,200,NO,Satisfied,branch_b,No
+1027,Noor Khan,54,female,Rawalpindi,2.4,Sports,Skincare,5, PKR 1200 ,25%,6000,cash_on_delivery,12-05-23,Delivered,150,yes,Satisfied, Branch_B,No
+1028,Usman Riaz,50,M,Lahore,1.1, electronics ,Fiction,6,UNKNOWN,30,ERROR,Bank Transfer,,pending,500,Y,Very slow shipping, Branch_B,No
+1029,AYESHA ALI,25,Female,  Peshawar  ,3.2, home & kitchen ,Skincare,9, PKR 18000 ,5,162000,cash_on_delivery,,CANCELLED,,no,Very slow shipping,branch_b,No
+1030,Umer Mirza,61,Male,karachi,3.1, books ,Decor,2,3200,15%,6400,Bank Transfer,12-27-23,Pending,0,NO,Satisfied,Branch_A ,NO
+1031,  tariq ahmed  ,61,MALE,Quetta,, sports ,Mobiles,5,15000,20%,75000,JazzCash,02-14-23,Shipped,300,No,Satisfied,Branch_A,YES
+1032,Ayesha Riaz,22,m,Rawalpindi,4.6,Electronics,Decor,3,2500,15%,7500,Bank Transfer,05-20-23,pending,200,yes,Satisfied,Branch_A,nan
+1033,USMAN KHAN,56,MALE,Peshawar,1.5, beauty ,Decor,4,2500,15%,10000,JazzCash,01-23-23,CANCELLED,500,NO,,Branch_A,No
+1034,Asad Hayat,21,MALE,faisalabad,2.3, sports ,Skincare,N/A,45000,10%,ERROR,credit_card,05-21-23,pending,0,Y,Satisfied,branch_b,No
+1035, Ayesha Hayat ,23,MALE,Islamabad,2.3,Home & Kitchen,Fiction,8,2500,15%,20000,COD,17/01/2023,delivered,300,no,Satisfied,branch_b,No
+1036, Umer Umar ,62,female,Lahore,1.4,Clothing,Fiction,1, PKR 18000 ,5,18000,credit_card,10-12-23,Shipped,150,N,Okayish,BRANCH_C,No
+1037,KASHIF RAZA,49,M,LAHORE,2.9,Electronics,Shirts,8,4100,25,32800,credit_card,02-24-23,Pending,200,yes,Damaged packaging,Branch_A,NO
+1038,SANIA QAMAR,,f,Rawalpindi,3.8,Electronics,Laptops,7,5300,10,37100,COD,02-25-23,Delivered,500,YES,Excellent product!,Branch_A ,No
+1039,HAMZA MALIK,64,Female,Multan,3,Books,Mobiles,1,15000,,15000,Bank Transfer,07-09-23,Delivered,200,no,Good quality,Branch_A ,Yes
+1039,HAMZA MALIK,64,Female,Multan,3,Books,Mobiles,1,15000,,15000,Bank Transfer,07-09-23,Delivered,200,no,Good quality,Branch_A ,Yes
+1041,  hamza raza  ,57,MALE,Lahore,2.5, electronics ,Shirts,3, PKR 18000 ,10%,54000,JazzCash,06-20-23,Pending,500,NO,Damaged packaging,Branch_A,YES
+1042,Mahira Ahmed,33,F,Karachi,1,Electronics,Fitness,1,4100,20,4100,cash_on_delivery,,Returned,200,Y,Good quality,Branch_A,No
+1043,  bilal mehmood  ,30,female,  Quetta  ,4.5,Clothing,Laptops,9,8500,20%,76500,JazzCash,12-23-23,delivered,250,YES,Valuable,branch_b,No
+1044,Noor Mirza,59,m,Quetta,,Home & Kitchen,Laptops,8,2500,25,20000,cash_on_delivery,05-01-23,CANCELLED,150,Y,Satisfied,branch_b,No
+1045,ALI ABBAS,47,FEMALE,quetta,3.4,Books,Skincare,2,1800,10%,3600,credit_card,,Returned,150,YES,Damaged packaging,branch_b,YES
+1046,  usman mirza  ,36,f,Faisalabad,4.9,Home & Kitchen,Shoes,9, PKR 2500 ,30,22500,COD,,pending,150,yes,Okayish, Branch_B,Yes
+1047,Umer Malik,,F,KARACHI,3.1,Beauty,Mobiles,7,1800,25,12600,credit_card,10-11-23,delivered,250,YES,Valuable,Branch_A ,No
+1048,KASHIF MEHMOOD,36,f,faisalabad,4.7,Sports,Laptops,9,2200,15,19800,Credit Card,02-18-23,pending,250,No,,Branch_A ,YES
+1049,UMER ABBAS,45,FEMALE,LAHORE,1.9,Books,Skincare,6,UNKNOWN,20,ERROR,Bank Transfer,15/08/2023,Pending,300,No,Very slow shipping,BRANCH_C,YES
+1050,SABA ABBAS,43,MALE,Islamabad,4,Beauty,Skincare,6, PKR 15000 ,30,90000,cash_on_delivery,,Shipped,0,Yes,Worst experience,branch_b,No
+1051,Sania Ahmed,54,F,LAHORE,3.1,Electronics,Shirts,4, PKR 45000 ,20%,180000,JazzCash,04-01-23,delivered,,No,Damaged packaging, Branch_B,No
+1052,Ayesha Qamar,,f,Multan,3.9,Sports,Fitness,2,1200,5,2400,COD,05-16-23,Returned,300,no,Very slow shipping, Branch_B,NO
+1053,Saba Ahmed,40,m,FAISALABAD,1.2, electronics ,Shoes,7,3200,15,22400,cash_on_delivery,,Shipped,200,YES,Damaged packaging,Branch_A ,No
+1054,Ayesha Khan,26,M,Multan,1.6,Books,Mobiles,5,4100,10,20500,JazzCash,,Delivered,0,No,Okayish,branch_b,Yes
+1054,Ayesha Khan,26,M,Multan,1.6,Books,Mobiles,5,4100,10,20500,JazzCash,,Delivered,0,No,Okayish,branch_b,Yes
+1056,  bilal bilal  ,18,M,Islamabad,3.7, electronics ,Decor,N/A,9500,15,ERROR,credit_card,05-13-23,CANCELLED,0,Y,Very slow shipping,branch_b,No
+1057,SABA TARIQ,18,FEMALE,Rawalpindi,4.4, sports ,Fitness,5,45000,30,225000,Bank Transfer,11-04-23,Delivered,250,N,Okayish,Branch_A,nan
+1058,Fawad Ahmed,64,female,Karachi,,Beauty,Fitness,4, PKR 1200 ,10,4800,EasyPaisa,,Delivered,0,Y,Good quality,branch_b,nan
+1059,Noor Mustafa,51,Male,Karachi,1.1,Beauty,Shirts,9,4100,10%,36900,Credit Card,,CANCELLED,300,Yes,Excellent product!,Branch_A,YES
+1060,Umer Tariq,49,Female,multan,4.5,Sports,Fiction,6,45000,10,270000,EasyPaisa,23/09/2023,delivered,500,Y,Satisfied,Branch_A,No
+1061,USMAN ABBAS,,m,Lahore,2.4, sports ,Laptops,2, PKR 3200 ,5,6400,COD,11-01-23,Delivered,300,YES,Damaged packaging,BRANCH_C,NO
+1062,Hamza Khan,57,Female,Karachi,2.6,Beauty,Laptops,1,1200,30,1200,cash_on_delivery,06-07-23,Pending,200,Yes,,Branch_A ,No
+1063,Mahira Abbas,62,F,  Lahore  ,1.4,Home & Kitchen,Shirts,5,UNKNOWN,10%,ERROR,COD,01-12-23,Returned,300,YES,Worst experience,branch_b,Yes
+1064,Fawad Farooq,18,Male,  Karachi  ,3.9,Home & Kitchen,Skincare,9,9500,0,85500,credit_card,19/05/2023,Shipped,150,yes,Very slow shipping,Branch_A,nan
+1065,Sania Aslam,33,Female,Peshawar,1.7, clothing ,Laptops,6,5300,5,31800,JazzCash,09-01-23,Delivered,200,Yes,Satisfied,branch_b,NO
+1066,Noor Aslam,56,Female,Lahore,3.3,Sports,Shoes,7,3200,,22400,Bank Transfer,01-03-23,Returned,0,NO,Very slow shipping,Branch_A ,Yes
+1067,KASHIF RIAZ,22,f,karachi,,Books,Mobiles,5,2200,25%,11000,EasyPaisa,10-11-23,pending,200,no,Satisfied,Branch_A ,Yes
+1068,Fahad Mustafa,39,M,RAWALPINDI,1.4, books ,Fitness,6,18000,20,108000,EasyPaisa,02-10-23,Returned,500,no,Excellent product!, Branch_B,No
+1069,Saba Ahmed,46,f,quetta,3.1,Clothing,Fitness,5,4100,30,20500,credit_card,,Shipped,250,YES,Excellent product!,Branch_A ,YES
+1069,Saba Ahmed,46,f,quetta,3.1,Clothing,Fitness,5,4100,30,20500,credit_card,,Shipped,250,YES,Excellent product!,Branch_A ,YES
+1071,UMER FAROOQ,29,Male,Rawalpindi,2.4, books ,Fiction,6, PKR 45000 ,10,270000,credit_card,25/10/2023,CANCELLED,200,N,Excellent product!,Branch_A,No
+1072,Fahad Mustafa,43,FEMALE,Islamabad,2.9, electronics ,Laptops,8,4100,15%,32800,COD,16/02/2023,Shipped,0,N,Okayish, Branch_B,NO
+1073,  ali abbas  ,,f,Multan,2.4,Beauty,Fitness,2,8500,15,17000,Bank Transfer,12-04-23,delivered,0,NO,Excellent product!,BRANCH_C,YES
+1074,Zainab Bilal,54,male,Karachi,3.6,Beauty,Decor,9, PKR 1800 ,15,16200,cash_on_delivery,07-06-23,pending,,Yes,Excellent product!,branch_b,NO
+1075,FAWAD RIAZ,39,M,LAHORE,2.9,Beauty,Fiction,5,9500,0%,47500,JazzCash,27/12/2023,CANCELLED,250,NO,Excellent product!,Branch_A,YES
+1076,  usman aslam  ,46,Male,lahore,3.3,Sports,Mobiles,7,1200,30%,8400,cash_on_delivery,23/05/2023,delivered,300,NO,Very slow shipping,Branch_A ,nan
+1077,Atif Ahmed,31,FEMALE,ISLAMABAD,3.9,Clothing,Mobiles,1,4100,15%,4100,COD,05-15-23,Returned,0,Y,,Branch_A,NO
+1078,  fahad farooq  ,45,f,FAISALABAD,3.2, clothing ,Fitness,N/A,3200,0%,ERROR,JazzCash,11-19-23,Shipped,150,N,Okayish,branch_b,No
+1079, Hamza Khan ,22,M,Lahore,,Home & Kitchen,Shirts,2,18000,0%,36000,EasyPaisa,13/05/2023,pending,500,Yes,Satisfied, Branch_B,YES
+1080,FAHAD ABBAS,64,f,  Karachi  ,3.3,Electronics,Fiction,6,15000,25,90000,Credit Card,14/02/2023,CANCELLED,250,yes,Excellent product!, Branch_B,YES
+1081,Zainab Mirza,,Female,quetta,2.5, electronics ,Fitness,1, PKR 1200 ,20,1200,COD,05-20-23,delivered,200,Y,Very slow shipping, Branch_B,Yes
+1082,  ali mustafa  ,63,FEMALE,Karachi,2.3, sports ,Shirts,3,1800,10,5400,COD,03-12-23,delivered,250,NO,Very slow shipping,Branch_A ,Yes
+1083,Mahira Hayat,22,M,Peshawar,4.6, beauty ,Fitness,5,2500,0%,12500,Bank Transfer,10-04-23,pending,200,NO,Very slow shipping,BRANCH_C,No
+1084, Bilal Raza ,29,MALE,Karachi,3.4,Electronics,Decor,4,UNKNOWN,5,ERROR,cash_on_delivery,,Pending,250,yes,Okayish,BRANCH_C,NO
+1084, Bilal Raza ,29,MALE,Karachi,3.4,Electronics,Decor,4,UNKNOWN,5,ERROR,cash_on_delivery,,Pending,250,yes,Okayish,BRANCH_C,NO
+1086, Ali Umar ,43,F,Peshawar,3,Sports,Skincare,5,4100,30,20500,COD,07-12-23,pending,0,NO,Okayish,Branch_A ,No
+1087,AYESHA MUSTAFA,43,M,Lahore,2.3,Sports,Mobiles,8,9500,10,76000,EasyPaisa,07-24-23,delivered,300,NO,Satisfied, Branch_B,nan
+1088,  usman qamar  ,,f,rawalpindi,4.7,Beauty,Fitness,4, PKR 3200 ,0,12800,EasyPaisa,,Delivered,200,no,Damaged packaging, Branch_B,nan
+1089,Tariq Hayat,56,FEMALE,Rawalpindi,1,Clothing,Decor,1,9500,,9500,JazzCash,,CANCELLED,200,Y,Good quality,branch_b,Yes
+1090,Usman Farooq,53,F,Peshawar,,Beauty,Shirts,7, PKR 2200 ,25,15400,credit_card,01-12-23,pending,150,No,Valuable,branch_b,NO
+1091,Saba Hayat,50,FEMALE,Islamabad,2.5,Home & Kitchen,Shirts,8, PKR 9500 ,0%,76000,credit_card,,Pending,200,Y,, Branch_B,YES
+1091,Saba Hayat,50,FEMALE,Islamabad,2.5,Home & Kitchen,Shirts,8, PKR 9500 ,0%,76000,credit_card,,Pending,200,Y,, Branch_B,YES
+1093,  ali riaz  ,54,Female,Peshawar,4.4,Home & Kitchen,Shoes,6,9500,30,57000,credit_card,06-09-23,Returned,500,NO,Good quality,Branch_A ,NO
+1094,Kashif Riaz,,f,  Karachi  ,1.4, home & kitchen ,Fitness,2,9500,25%,19000,Bank Transfer,24/10/2023,delivered,0,Y,Worst experience,BRANCH_C,No
+1095,Atif Umar,27,Female,islamabad,4.2, home & kitchen ,Fiction,7,2200,0,15400,Credit Card,10-08-23,Returned,150,no,Okayish,branch_b,nan
+1096,Sara Ali,22,F,KARACHI,1.2,Electronics,Laptops,8,5300,5,42400,JazzCash,01-26-23,pending,300,N,Excellent product!,BRANCH_C,Yes
+1097,Saba Bibi,53,MALE,Peshawar,4.4, books ,Shirts,6,4100,5,24600,EasyPaisa,04-18-23,Returned,0,yes,Valuable,Branch_A ,Yes
+1097,Saba Bibi,53,MALE,Peshawar,4.4, books ,Shirts,6,4100,5,24600,EasyPaisa,04-18-23,Returned,0,yes,Valuable,Branch_A ,Yes
+1099,KASHIF RIAZ,,Female,Rawalpindi,1.1,Home & Kitchen,Fiction,5,3200,0,16000,cash_on_delivery,02-19-23,Shipped,0,Y,Damaged packaging,BRANCH_C,No
